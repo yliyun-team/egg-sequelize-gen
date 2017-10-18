@@ -1,5 +1,4 @@
 #!/usr/bin/env node
-
 var sequelizeAuto = require('../')
   , path = require('path');
 

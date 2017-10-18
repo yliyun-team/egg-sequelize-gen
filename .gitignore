@@ -9,3 +9,6 @@ database.sqlite
 .nyc_output
 coverage/
 coverage-*/
+yarn.lock
+package-lock.json*
+yarn-error.log
